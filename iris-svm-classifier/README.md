@@ -94,7 +94,7 @@ To get a local copy of this project up and running, follow these steps:
 
 ```bash
 git clone https://github.com/Sandetej/Data_Science_Projects-.git
-cd iris-svm-classifier
+cd Data_Science_Projects-/iris-svm-classifier
 ```
 
 ## **Install Dependencies**
